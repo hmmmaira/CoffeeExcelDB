@@ -1,3 +1,18 @@
-Created a dashboard based on data from Coffee Sales dataset  
+## Created a dashboard based on data from Coffee Sales dataset  
 
-procedure were roughly as follows :
+procedure was roughly as follows :  
+- XLOOKUP
+- INDEX,MATCH
+- BASIC MULTIPLICATION
+- MULTIPLE IF FUNCTIONS
+- DATE FORMATTING
+- NUMBER FORMATTING
+- CHECK FOR DUPLICATES
+- CONVERT RANGE TO TABLE
+- PIVOT TABLES & PIVOT CHARTS - FORMATTING
+- INSERT TIMELINE + FORMATTING
+- INSERT SLICER + FORMATTING
+- UPDATING THE PIVOT TABLE DATA SOURCE
+- BUILDING THE DASHBOARD (ARRANGING THE TIMELINE, GRAPHS AND SLICERS)
+
+
